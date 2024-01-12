@@ -2,8 +2,8 @@
 
 - I am a passionate Android Developer.
   
--📱 Proficient in Android app development using Java/Kotlin.
+- 📱 Proficient in Android app development using Java/Kotlin.
 
--🛠️ Experience with tools like Android Studio, Git, and Firebase.
+- 🛠️ Experience with tools like Android Studio, Git, and Firebase.
 
--💡 Knowledge of UI/UX principles for creating intuitive and user-friendly interfaces.
+- 💡 Knowledge of UI/UX principles for creating intuitive and user-friendly interfaces.
