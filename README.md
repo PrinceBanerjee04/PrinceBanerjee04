@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince Banerjee</h1>
 
-- I am a passionate Android Developer.
+ - I am a passionate Android Developer.
   
 - 📱 Proficient in Android app development using Java/Kotlin.
 
