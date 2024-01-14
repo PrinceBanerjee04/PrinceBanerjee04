@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prince Banerjee</h1>
 
-- 👨‍💻 I am a passionate Android Developer.
-- 📱 Proficient in Android App development using Java/Kotlin.
-- 🛠️ Experience with tools like Android Studio, Git, and Firebase.
-- 💡 Knowledge of UI/UX principles for creating intuitive and user-friendly interfaces.
+<p align="center">👨‍💻 I am a passionate Android Developer.<br>
+📱 Proficient in Android App development using Java/Kotlin.<br>
+🛠️ Experience with tools like Android Studio, Git, and Firebase.<br>
+💡 Knowledge of UI/UX principles for creating intuitive and user-friendly interfaces.</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/08/Android-Logo-2017-2019.png" alt="android" width="60" height="35"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="35" height="35"/> </a>
