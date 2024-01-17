@@ -25,6 +25,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrinceBanerjee04&show_icons=true&locale=en&layout=compact" alt="PrinceBanerjee04" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceBanerjee04" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrinceBanerjee04)
+
