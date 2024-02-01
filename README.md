@@ -23,7 +23,7 @@
 </p>
 
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrinceBanerjee04&langs_count=10&layout=compact&hide=SCSS,jupyter%20notebook&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=446" alt="mayukh" width="auto" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrinceBanerjee04&langs_count=10&layout=compact&hide=SCSS,jupyter%20notebook&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=446" alt="Top Languages Used" width="auto" />
   <br />
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=PrinceBanerjee04&theme=react&date_format=M%20j%5B%2C%20Y%5D&theme=monokai-metallian&hide_border=true" alt="GitHub Streak" />
