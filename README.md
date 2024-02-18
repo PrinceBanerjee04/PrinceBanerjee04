@@ -5,7 +5,6 @@
 🛠️ Experience with tools like Android Studio, Git, and Firebase.<br>
 💡 Knowledge of UI/UX principles for creating intuitive and user-friendly interfaces.</p>
 
-
 <h3>Languages and Tools:</h3>
 <p >
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/08/Android-Logo-2017-2019.png" alt="android" width="60" height="35"/> </a>
