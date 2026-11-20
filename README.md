@@ -1,35 +1,221 @@
-<h1 align="center">Hi 👋, I'm Prince Banerjee</h1>
 
-👨‍💻 I am a passionate Android Developer.<br>
-📱 Proficient in Android App development using Java/Kotlin.<br>
-🛠️ Experience with tools like Android Studio, Git, and Firebase.<br>
-💡 Knowledge of UI/UX principles for creating intuitive and user-friendly interfaces.</p>
+<!-- ===================================================== -->
+<!--                 PRINCE BANERJEE                        -->
+<!--              GITHUB PROFILE README                     -->
+<!-- ===================================================== -->
 
-<h3>Languages and Tools:</h3>
-<p>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/08/Android-Logo-2017-2019.png" alt="android" width="60" height="35"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="35" height="35"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring framework" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
+<div align="center">
 
+  <!-- HERO SECTION -->
+  <img src="https://www.gitskins.com/api/section/hero?username=PrinceBanerjee04&theme=github-dark" width="100%" alt="Prince Banerjee - Developer Profile" />
 
-<div style="background-color: #ffffff;">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrinceBanerjee04&langs_count=10&layout=compact&hide=SCSS,jupyter%20notebook&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=446" alt="Top Languages Used" width="auto" />
-  <br />
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=PrinceBanerjee04&theme=react&date_format=M%20j%5B%2C%20Y%5D&theme=monokai-metallian&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <h1>Hi 👋, I'm Prince Banerjee</h1>
+
+  <h3>Software Engineer | Android Developer</h3>
+
+  <p>
+    Building applications, exploring technologies and turning ideas into reality.
+  </p>
+
+  <p>
+    <a href="https://github.com/PrinceBanerjee04">
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+    </a>
+    <img src="https://img.shields.io/badge/Android-Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  </p>
+
 </div>
+
+---
+
+<!-- ABOUT SECTION -->
+
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- 👋 Hi, I'm **Prince Banerjee**.
+- 💻 Currently working as a **Software Engineer**.
+- 📱 Passionate about Android application development.
+- ☕ Experienced with Java and Kotlin.
+- 🌱 Exploring modern software development technologies.
+- 🔥 Interested in building scalable applications and intuitive user interfaces.
+- 🎯 Always learning, building and improving.
+
+<br clear="right"/>
+
+---
+
+<!-- CHESS REPLAY SECTION -->
+
+## ♟️ Chess Replay
+
+<div align="center">
+
+  <p>
+    A little chess break between lines of code!
+  </p>
+
+  <img
+    src="https://www.gitskins.com/api/section/chess?username=PrinceBanerjee04&theme=github-dark"
+    width="100%"
+    alt="Chess Replay"
+  />
+
+</div>
+
+---
+
+<!-- PROJECTS SECTION -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+  <img
+    src="https://www.gitskins.com/api/section/projects?username=PrinceBanerjee04&theme=github-dark"
+    width="100%"
+    alt="Featured GitHub Projects"
+  />
+
+</div>
+
+---
+
+<!-- GITHUB STATISTICS -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+  <img
+    src="https://www.gitskins.com/api/section/stats?username=PrinceBanerjee04&theme=github-dark"
+    width="100%"
+    alt="GitHub Statistics"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceBanerjee04&layout=compact&langs_count=10&hide=SCSS,Jupyter%20Notebook&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    height="180"
+    alt="Most Used Languages"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=PrinceBanerjee04&theme=github-dark-blue&hide_border=true&background=0D1117"
+    width="100%"
+    alt="GitHub Contribution Streak"
+  />
+
+</div>
+
+---
+
+<!-- TECHNOLOGY STACK -->
+
+## 🛠️ Languages and Tools
+
+### Programming Languages
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=java,kotlin,c,cpp,javascript,python&theme=dark" />
+
+</div>
+
+### Android Development
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase&theme=dark" />
+
+</div>
+
+### Backend and Database
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=spring,mysql&theme=dark" />
+
+</div>
+
+### Tools and Technologies
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,react&theme=dark" />
+
+</div>
+
+---
+
+<!-- LANGUAGE STACK -->
+
+## 📈 Language Stack
+
+<div align="center">
+
+  <img
+    src="https://www.gitskins.com/api/section/stack?username=PrinceBanerjee04&theme=github-dark"
+    width="100%"
+    alt="Programming Language Distribution"
+  />
+
+</div>
+
+---
+
+<!-- CONTRIBUTION ACTIVITY -->
+
+## ⚡ Contribution Activity
+
+<div align="center">
+
+  <p>
+    Every contribution is another step forward.
+  </p>
+
+  <img
+    src="https://www.gitskins.com/api/section/heatmap?username=PrinceBanerjee04&theme=github-dark&style=snake"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
+
+</div>
+
+---
+
+<!-- CONTACT SECTION -->
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+  <p>
+    Interested in collaborating, discussing technology or building something exciting?
+    Feel free to connect!
+  </p>
+
+  <a href="https://github.com/PrinceBanerjee04">
+    <img src="https://img.shields.io/badge/GitHub-PrinceBanerjee04-181717?style=for-the-badge&logo=github" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=100&section=footer" />
+
+  <p>
+    <b>Thanks for visiting my profile! 👨‍💻</b>
+  </p>
+
+  <p>
+    <i>Code. Create. Innovate. Repeat. 🚀</i>
+  </p>
+
+</div>
+
+<!-- END OF README -->
